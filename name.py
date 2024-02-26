@@ -1,2 +1,2 @@
-sname = "Your Name"
+sname = "allen
 print("My name is", name)
